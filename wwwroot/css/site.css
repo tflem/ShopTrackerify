@@ -5,9 +5,9 @@ body {
 
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
-.body-content {
+.body-content  {
     padding-left: 15px;
-    padding-right: 15px;
+    padding-right: 15px;    
 }
 
 /* QR code generator */
@@ -18,3 +18,12 @@ body {
 .jumbotron {
     text-align: center;
 }
+
+i.fa-heart {
+    color: #6b0808;
+}
+
+ul.list-unstyled {
+    font-size: 1.2em;
+}
+
